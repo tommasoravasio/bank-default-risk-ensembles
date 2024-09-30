@@ -16,3 +16,7 @@ Our approaches includes:
 * `main.ipynb`: Main script file, contains the complete project code from EDA to final model training and evaluation
 * `final_submission.csv`: Final predictions for the test dataset
 * `ML_report.pdf`: Full project report detailing the methodology, models and results
+* `Data`:
+  - `train.csv`: data used to train and test the algorithms
+  - `test.csv`: data used to predict the final submission
+  
