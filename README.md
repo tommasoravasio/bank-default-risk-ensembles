@@ -1,4 +1,4 @@
-# Mitigating-Default-Risks-in-Banking-Ensemble-Based-Approaches-for-Addressing-Class-Imbalance
+# Bank-default-risk-ensembles
 
 ## Project Overview
 The Project is part of the Machine Learning course at Bocconi University. Its main objective is to build a robust credit scroing model to predict default risks. The task is a binary classification problem, where the target variable is whether a customer will experience a serious delinquency in two years `SeriousDlqin2yrs`
